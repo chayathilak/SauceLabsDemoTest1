@@ -7,7 +7,7 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 
 public class Test1 {
 
-	  public static final String URL = "https://chaya:97863576-4590-45ba-8a36-a41fdde52359@ondemand.saucelabs.com:443/wd/hub";
+	  public static final String URL = "https://chaya:3196b499-b315-4218-ac0d-eaf821cd6bcb@ondemand.saucelabs.com:443/wd/hub";
 	 
 	  public static void main(String[] args) throws Exception {
 	 
